@@ -4,7 +4,7 @@
 // Binary package, written by the release tooling: do not edit by hand.
 import PackageDescription
 
-let version = "0.1.0"
+let version = "0.1.1"
 let releases = "https://github.com/c-Viorel/MBCoreKit/releases/download/\(version)"
 
 let package = Package(
@@ -18,12 +18,12 @@ let package = Package(
         .binaryTarget(
             name: "MBCoreKit",
             url: "\(releases)/MBCoreKit.xcframework.zip",
-            checksum: "195f6f27259ef5d37facfdcbfd2f1e6e2a7f8ee3051e9178f3615a31e68bbbe3"
+            checksum: "dff6ec422f118ecb2457d1e8d746cefff023fac7f43e7672238229441567a353"
         ),
         .binaryTarget(
             name: "MBCoreKitUI",
             url: "\(releases)/MBCoreKitUI.xcframework.zip",
-            checksum: "a80a84d92a1295b8826785563d77262d580185f658e14547cb1e3cd4e427a65b"
+            checksum: "cfc536c46099d3db4bd719d4b21c125b184dfb7f860f58614e22bd9b78c486fd"
         ),
     ]
 )

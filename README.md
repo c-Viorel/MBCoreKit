@@ -19,7 +19,7 @@ In Xcode: **File › Add Package Dependencies…**, enter
 the app target. In a `Package.swift`:
 
 ```swift
-.package(url: "https://github.com/c-Viorel/MBCoreKit", from: "0.1.0")
+.package(url: "https://github.com/c-Viorel/MBCoreKit", from: "0.1.1")
 ```
 
 The quickest way is the `mb` tool (`mb-<version>-macos.zip` on each
