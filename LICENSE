@@ -1,0 +1,11 @@
+Copyright (c) 2026 MingleBit. All rights reserved.
+
+MBCoreKit, MBCoreKitUI and the mb tool are distributed in binary form only.
+You may use them, unmodified, in apps that report to MingleBit's MBCore.
+Any other use, redistribution outside such apps, modification, decompiling
+or reverse engineering needs MingleBit's written permission, except where
+the law allows it regardless.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED. IN NO EVENT SHALL MINGLEBIT BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY ARISING FROM THE SOFTWARE OR ITS USE.
